@@ -44,7 +44,7 @@ img {
 
   .photo:nth-child(2), .photo:nth-child(3), .photo:nth-child(4), .photo:nth-child(5) {
     display: inline-block;
-    width: 50%
+    width: 50%;
   }
 
 }
@@ -53,7 +53,7 @@ img {
 
   .photo:nth-child(2), .photo:nth-child(3), .photo:nth-child(4) {
     display: inline-block;
-    width: 33.33%
+    width: 33.33%;
   }
 
   .photo:nth-child(5) {
@@ -66,12 +66,12 @@ img {
 
   .photo:nth-child(1) {
     display: inline-block;
-    width: 66.66%;
+    width: 66.6666%;
   }
 
   .photo:nth-child(2), .photo:nth-child(3), .photo:nth-child(4), .photo:nth-child(5) {
     display: inline-block;
-    width: 33.33%
+    width: 33.3333%;
   }
 
 }
